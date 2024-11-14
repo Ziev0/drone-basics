@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python egg files
+*.egg-info/
+*.egg
+
+# Cache and logs
+*.log
+*.pot
+*.pyo
+*.pyd
+*.pdb
+*.pki
