@@ -29,3 +29,6 @@ env/
 *.pyd
 *.pdb
 *.pki
+*.parm
+*.tlog
+*.tlog.raw
