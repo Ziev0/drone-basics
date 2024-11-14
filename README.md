@@ -4,7 +4,7 @@ start by running
  
 `pip install -r requirments.txt`
 
-start a sitl drone using
+start a sitl drone using your cordinates ie `latitude=42` & `longitude=-74`
 
 `dronekit-sitl copter --home=40.68593813190999,-74.09225693035503,0,180`
 
