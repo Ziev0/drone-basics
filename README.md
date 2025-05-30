@@ -1,6 +1,6 @@
 This is a basic setup for controlling a sitl drone inside gazebo simulator
 
-start by running
+start by running 
  
 `pip install -r requirments.txt`
 
